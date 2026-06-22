@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  EKS_CLUSTER_NAME: aa2-demoKenny-kubernetes
+  EKS_CLUSTER_NAME: aa2-demo-cluster
   AWS_REGION: us-east-1
 
 jobs:
